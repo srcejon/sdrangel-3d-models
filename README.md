@@ -2,6 +2,10 @@
 
 3D Models for use in the SDRangel Map
 
+Please do not try to download and install the models manually. Use the "Download 3D Models" button in SDRangel:
+
+![Download Button](download.png)
+
 ## Contributing Models
 
 Export model as .gltf format (which will consist of a .gltf, .bin and .jpegs) or .glb (which is a single 
